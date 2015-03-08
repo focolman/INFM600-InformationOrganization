@@ -45,9 +45,9 @@ This file contains the following information:
 - id - This is the movie id from MovieLens
 - title - This is the movie title
 - rtAudienceRating - This is the average audience rating from RottenTomatoes.com. This number should be between 1-5.
-- rtAudienceNumRatings - This is the number of audience reviews on RottenTomates.com for a particulart movie
+- rtAudienceNumRatings - This is the number of audience reviews on RottenTomates.com for a particular movie
 - rtAudienceScore - This is the audience score from RottenTomatoes.com. This number should be between 1-100.
-- country - This field lists the movies country of origin
+- country - This field lists the movie's country of origin
 ** The following 20 fields contain either a 'YES' or 'NO' value to indicate if the movie was part of that genre.
 - Action 
 - Adventure 
