@@ -1,4 +1,3 @@
-# INFM600-InformationOrganization
 =================================
 Rotten Tomatoes Ratings by Genres
 =================================
@@ -94,4 +93,5 @@ Wiki
 --------------------
 
 Username: Focolman
+
 URL: http://wiki.urbanhogfarm.com/index.php/Rotten_Tomatoes_Ratings_by_Genres
